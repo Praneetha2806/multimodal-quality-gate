@@ -1,0 +1,10 @@
+streamlit
+duckdb
+opencv-python-headless
+librosa
+soundfile
+pymupdf
+openai
+python-dotenv
+pandas
+numpy

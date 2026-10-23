@@ -1,0 +1,15 @@
+# Secrets
+.env
+
+# Local data / runtime
+gate.duckdb
+gate.duckdb.wal
+uploads/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Sample files larger than 10 MB. Git cannot filter by size, so list each one by path:
+# samples/bad/huge_scan.pdf
